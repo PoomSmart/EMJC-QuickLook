@@ -1,0 +1,14 @@
+# Xcode build intermediates
+build/
+DerivedData/
+*.xcarchive
+
+# Per-user Xcode state (scheme selection, breakpoints, window layout)
+xcuserdata/
+**/*.xcuserstate
+
+# macOS
+.DS_Store
+
+# Swift Package Manager
+.swiftpm/
