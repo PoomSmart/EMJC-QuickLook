@@ -7,7 +7,7 @@ The extension claims a custom file type (`.ettc`) rather than the system-wide `.
 ## Requirements
 
 - macOS 12.4 (Monterey) or later
-- Xcode 16 or later (to build from source)
+- Xcode 13+ or later (to build from source)
 
 ## How Quick Look extensions work
 
